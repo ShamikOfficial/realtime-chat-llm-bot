@@ -1,5 +1,7 @@
 # Realtime Chat LLM Bot
 
+> **Scope note for reviewers:** Course / portfolio demo — compact sample. For interview depth, start with [agentic-trend-orchestrator](https://github.com/ShamikOfficial/agentic-trend-orchestrator) and [token-runway](https://github.com/ShamikOfficial/token-runway).
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python&logoColor=white)]()
 
